@@ -1,1 +1,1 @@
-ComponentComposition
+чат-бот
