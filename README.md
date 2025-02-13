@@ -1,1 +1,1 @@
-чат-бот
+FinancialCalculator
